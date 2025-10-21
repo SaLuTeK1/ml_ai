@@ -1,0 +1,5 @@
+,MLP,CNN
+relu,96.75,98.73
+leaky_relu,97.15,98.5
+tanh,97.19,98.56
+sigmoid,96.76,98.28
